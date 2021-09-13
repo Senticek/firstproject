@@ -17990,7 +17990,8 @@ h2, .h2 {
 .front-page .buttons a {
   width: 40%;
   font-size: 2.5rem;
-  border: 1px solid #d30700;
+  font-weight: 600;
+  border: 3px solid #d30700;
   border-radius: 25px;
   background: #13151D;
   color: #d30700;
